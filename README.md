@@ -10,7 +10,7 @@ It's a demo project for JPA and Hibernate implementation.
 
 ### Built With
 
-* [JPA](https://docs.oracle.com/javaee/7/api/javax/persistence/package-summary.html) [Hibernate](https://hibernate.org)
+* [JPA](https://docs.oracle.com/javaee/7/api/javax/persistence/package-summary.html) - [Hibernate](https://hibernate.org)
 * [Ehcache](https://www.ehcache.org)
 * [Postgresql](https://www.postgresql.org)
 
